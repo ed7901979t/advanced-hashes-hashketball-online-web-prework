@@ -4,7 +4,7 @@
     :colors {"Black", "White" }
     :players {:number =>   , :shoe =>   , :points }
     
-  }]
+  ]
     
  
  
