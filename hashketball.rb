@@ -53,7 +53,7 @@
    },
    
     :away  {
-    :team_name => "Brooklyn Nets"
+    :team_name => "Charlotte Hornets"
     :players => "Reggie Evans"
      
      
