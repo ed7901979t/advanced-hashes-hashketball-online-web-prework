@@ -17,26 +17,63 @@
     :slam_dunks =>"1"
       
    },
-   :home => "Brooklyn Nets"{
+   :home  {
+    :team_name => "Brooklyn Nets"
     :players => "Reggie Evans"
-    :team_name => "30" 
+     
      
     :colors  =>"White"
      
-    :number => "0"   , 
-    :shoe =>   , "16"
-    :points =>  "22"
+    :number => "30"   , 
+    :shoe =>   , "14"
+    :points =>  "12"
     :rebounds =>"12"
     :assists =>"12"
-    :steals =>"3"
-    :blocks =>"1"
-    :slam_dunks =>"1"
+    :steals =>"12"
+    :blocks =>"12"
+    :slam_dunks =>"7"
+      
+   },
+   :away  {
+    :team_name => "Charlotte Hornets"
+    :players => "Jeff Adrien"
+     
+     
+    :colors  =>"White"
+     
+    :number => "30"   , 
+    :shoe =>   , "14"
+    :points =>  "12"
+    :rebounds =>"12"
+    :assists =>"12"
+    :steals =>"12"
+    :blocks =>"12"
+    :slam_dunks =>"7" 
+     
+   },
+   
+    :away  {
+    :team_name => "Brooklyn Nets"
+    :players => "Reggie Evans"
+     
+     
+    :colors  =>"White"
+     
+    :number => "30"   , 
+    :shoe =>   , "14"
+    :points =>  "12"
+    :rebounds =>"12"
+    :assists =>"12"
+    :steals =>"12"
+    :blocks =>"12"
+    :slam_dunks =>"7"
+    }
     
   
     
  
  
-  }
+ 
   }
  end
 
