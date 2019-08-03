@@ -1,9 +1,9 @@
  def home_team_name
   game_hash {
-    :team_name =>"Brooklyn Nets"{
-     
+    :home  {
+    :team_name => "Brooklyn Nets"
     :players => "Alan Anderson"
-    :team_name => "0" 
+     
      
     :colors  =>"Black"
      
