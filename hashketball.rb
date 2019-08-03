@@ -1,6 +1,6 @@
  def home_team_name
   game_hash {
-    :home =>
+    :home =>"Brooklyn Nets"{
     :players => "Alan Anderson"
     :team_name => "0" 
      
@@ -9,13 +9,14 @@
     :number => "0"   , 
     :shoe =>   , "16"
     :points =>  "22"
-    :rebounds =>
-    :assists =>
-    :steals =>
-    :blocks =>
-    :slam_dunks =>
+    :rebounds =>"12"
+    :assists =>"12"
+    :steals =>"3"
+    :blocks =>"1"
+    :slam_dunks =>"1"
       
-   ) }
+   },
+   :home =>
     
   
     
